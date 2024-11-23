@@ -1,11 +1,14 @@
 {
     "REW": {
-        "A1B": "Gana 10 puntos extra",
-        "C2D": "Salta al siguiente nivel",
-        "Z3Y": "Recibe un bonus de tiempo"
+        "REX": "Gana 10 puntos extra",
+        "REC": "Salta al siguiente nivel",
+        "REB": "Recibe un bonus de tiempo",
+        "REN": "Recibe un bonus de tiempo"
     },
     "PUN": {
-        "F3G": "Pierdes 5 puntos",
-        "H4J": "Tiempo extra en el siguiente nivel"
+        "PUN": "Pierdes 5 puntos",
+        "POX": "Tiempo extra en el siguiente nivel",
+        "POV": "Tiempo extra en el siguiente nivel",
+        "POC": "Tiempo extra en el siguiente nivel"
     }
 }
